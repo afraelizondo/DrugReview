@@ -2,7 +2,7 @@
 
 ## Overview
 
-Online user-generated review sites and forums provide a rich source of data on user opinions and experiences across various product categories. This data can be effectively analyzed to derive valuable insights. In this study, the main objective was to analyze user reviews in the pharmaceutical industry. These reviews contain valuable information on various aspects, including drug effectiveness.
+Online user-generated review sites and forums provide a rich source of data on user opinions and experiences across various product categories. This data can be effectively analyzed to derive valuable insights. In this study, the main objective was to analyze user reviews in the pharmaceutical industry to know which drugs are the best evaluated by the patients. These reviews contain valuable information on various aspects, including drug effectiveness.
 
 ## Description of the dataset 
 
