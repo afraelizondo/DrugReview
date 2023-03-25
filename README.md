@@ -20,7 +20,7 @@ First of all, the exploration of data in general was performed with the help of 
 
 <img width="902" alt="Screen Shot 2023-03-24 at 11 21 40 PM" src="https://user-images.githubusercontent.com/113856917/227698323-6a0710e2-4a2e-43b9-9598-5a2ea03fd761.png">
 
-Based on that output, the view called "Medical Conditions" in SQL was created, in order to get the top 5 of most popular drugs in the reviews. 
+Based on that output, the view called "Medical Conditions" in SQL was created, in order to get the count of the top 5 of most popular drugs in the reviews. 
 
 <img width="493" alt="Screen Shot 2023-03-24 at 10 21 06 PM" src="https://user-images.githubusercontent.com/113856917/227698431-41d0e481-c7e7-436e-b17e-ded3e39cda71.png">
 
